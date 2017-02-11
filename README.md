@@ -19,3 +19,5 @@ Fri Feb 10 23:28:26 UTC 2017 Stopping JIRA-RNG
 
 Fri Feb 10 23:58:05 UTC 2017 Stopping JIRA-RNG
 
+Sat Feb 11 00:28:50 UTC 2017 It is the weekend. The app is offline.
+
