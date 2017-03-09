@@ -191,3 +191,4 @@
 14:52:01 09 03 2017 Starting JIRA-RNG
 15:21:52 09 03 2017 Starting JIRA-RNG
 15:51:09 09 03 2017 Starting JIRA-RNG
+19:13:21 09 03 2017 Starting JIRA-RNG . Restart instance.
